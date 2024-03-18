@@ -1,0 +1,22 @@
+[
+    {
+        "username": "taymak",
+        "email": "taymak@live.com",
+        "password": "password"
+    },
+    {
+        "username": "taymak1",
+        "email": "taymak1@live.com",
+        "password": "password1"
+    },
+    {
+        "username": "taymak2",
+        "email": "taymak2@live.com",
+        "password": "password2"
+    },
+    {
+        "username": "taymak3",
+        "email": "taymak3@live.com",
+        "password": "password3"
+    }
+]

@@ -1,0 +1,1 @@
+Scaffold-DbContext -Provider Microsoft.EntityFrameworkCore.SqlServer -Connection "Server=localhost;Database=InfoStorage;User Id=sa;Password=Chapstick335;TrustServerCertificate=true;" -OutputDir Models -Context "dbcontext" -Tables Post
